@@ -1,0 +1,7 @@
+QGroupBox#highBox {
+    text-color: #FFFFFF;
+    background-color: #5e5e5e;
+    border-style: none none none solid;
+    border-width: 10px;
+    border-color: #353535;
+}
